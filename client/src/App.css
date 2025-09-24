@@ -1,0 +1,42 @@
+.app-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 100vh;
+  background: linear-gradient(to right, #e0eafc, #cfdef3);
+  padding-top: 60px;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.app-wrapper h1 {
+  font-size: 32px;
+  margin-bottom: 30px;
+  color: #333;
+}
+
+.page {
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 40px;
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.page h1 {
+  font-size: 28px;
+  margin-bottom: 10px;
+}
+
+.page p {
+  font-size: 16px;
+  color: #555;
+  margin-bottom: 30px;
+}
+
+.app-container {
+  height: 100vh;
+  width: 100vw;
+}

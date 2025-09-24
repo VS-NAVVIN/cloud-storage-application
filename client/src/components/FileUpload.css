@@ -1,0 +1,39 @@
+.upload-container {
+  padding: 40px;
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #f4f4f4;
+  min-height: 100vh;
+}
+
+.upload-container h2 {
+  font-size: 24px;
+  margin-bottom: 20px;
+}
+
+.upload-container input[type="file"] {
+  margin-bottom: 10px;
+}
+
+.upload-container button {
+  padding: 10px 20px;
+  margin-right: 10px;
+  background-color: #6c63ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.file-list {
+  list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+
+.file-list li {
+  margin-bottom: 20px;
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.05);
+}
