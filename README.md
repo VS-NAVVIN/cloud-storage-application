@@ -42,7 +42,7 @@ cloud-storage-app/
 
 1. **Clone the repo**  
    bash  
-   git clone https://github.com/YGS-MAVEN/cloud-storage-app.git  
+   git clone https://github.com/VS-NAVVIN/cloud-storage-application.git  
 
 2. **Install dependencies**  
    bash  
